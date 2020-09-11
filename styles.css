@@ -2,7 +2,6 @@
   box-sizing: border-box;
 }
 
-
 body {
   background-color: #393E46;
 }
@@ -42,7 +41,4 @@ img {
   display: inline-block;
 }
 
-
-@media screen {
-
-}
+@media screen {}
